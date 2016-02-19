@@ -1,0 +1,23 @@
+[			
+	{
+        "subject": 'CS',
+        "number": 23200,    
+    },
+	{
+        "subject": 'MATH',
+        "number": 17500,    
+    },
+	{
+        "subject": 'CS',
+        "number": 26000,    
+    },
+	{
+        "subject": 'MATH',
+        "number": 10100,    
+    },
+	{
+        "subject": 'CS',
+        "number": 49200,    
+    }
+]
+
